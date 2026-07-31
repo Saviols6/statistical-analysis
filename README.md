@@ -1,4 +1,4 @@
-# statistical-analysis
+# Statistical-analysis
 
 # 📊 Análise Estatística de Dados com NumPy para Marketing
 
